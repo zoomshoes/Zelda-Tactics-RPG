@@ -16,7 +16,7 @@ I want it to feel *something* like Final Fantasy Tactics, but not be an outright
 ![attack_2](https://github.com/user-attachments/assets/b334ed7e-ee2f-4268-860c-b46567c41092)
 ![attack_3](https://github.com/user-attachments/assets/57b5584d-8c8b-493c-9860-6c740f395d35)
 ![attack_4](https://github.com/user-attachments/assets/a0f360e0-97c6-48cc-99a1-c2a163f5d97d)
-- Some menus when you click on various things (a player turn menu, and an enemy stats/characteristics menu so far)
+- Some menus when you click on various things (a player turn menu, and an enemy stats/characteristics menu so far)  
 ![order](https://github.com/user-attachments/assets/b50f92d8-c70f-4a8d-b82c-63d49a56c7d7)
 ![enemy_stats_1](https://github.com/user-attachments/assets/10df9c9c-066a-4907-be2c-33810a7276fb)
 ![enemy_stats_2](https://github.com/user-attachments/assets/9031ed05-04cb-4514-9ff9-00164936d1b5)
